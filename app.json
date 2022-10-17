@@ -1,13 +1,13 @@
 {
-      "name": "Hydra",
-      "description": "Hydra the most powerful telegram bot (under development).",
+      "name": "Vexera",
+      "description": "Vexera the Normal telegram bot (under development).",
       "logo": "https://te.legra.ph/file/18226e0514d54b1bb735a.jpg",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Hydra"
+         "Vexera"
       ],   
    "repository": "https://github.com/Otazuki004/Hydradeployment2.0",
    "addons": [
